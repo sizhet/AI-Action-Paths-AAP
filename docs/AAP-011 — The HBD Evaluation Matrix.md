@@ -34,6 +34,12 @@ The objective is orientation.
 
 ---
 
+#### Fig-003b-The-HBD-Evaluation-Model.png
+
+![Fig-003b-The-HBD-Evaluation-Model.png](./figures/Fig-003b-The-HBD-Evaluation-Model.png)
+
+---
+
 # Every AI Journey Needs a Map
 
 Imagine standing on top of a mountain overlooking the entire AI landscape.
