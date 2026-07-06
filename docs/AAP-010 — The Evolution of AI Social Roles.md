@@ -30,6 +30,12 @@ It is organizational and social.
 
 ---
 
+#### Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png
+
+![Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png](./figures/Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png)
+
+---
+
 # Beyond Capability
 
 Throughout the history of AI, progress has usually been measured by capability.

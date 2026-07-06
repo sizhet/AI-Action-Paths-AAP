@@ -32,6 +32,12 @@ This transition marks the beginning of autonomous scientific participation.
 
 ---
 
+#### Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png
+
+![Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png](./figures/Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png)
+
+---
+
 # From Execution to Discovery
 
 Known-Gap Workers answer questions that already exist.

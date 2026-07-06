@@ -24,6 +24,12 @@ Together they form the HBD Framework.
 
 ---
 
+#### Fig-003-Height-Breadth-and-Depth-of-AI-Models.png
+
+![Fig-003-Height-Breadth-and-Depth-of-AI-Models.png](./figures/Fig-003-Height-Breadth-and-Depth-of-AI-Models.png)
+
+---
+
 # From One-Dimensional Growth to Three-Dimensional Evolution
 
 The first generation of AI development was naturally driven by capability.
@@ -156,6 +162,12 @@ For example,
 - Hybrid Organizations seek balanced optimization across all three dimensions.
 
 Rather than competing, these Action Paths complement one another by expanding different regions of HBD Space.
+
+---
+
+#### Fig-003b-The-HBD-Evaluation-Model.png
+
+![Fig-003b-The-HBD-Evaluation-Model.png](./figures/Fig-003b-The-HBD-Evaluation-Model.png)
 
 ---
 

@@ -22,6 +22,12 @@ This Action Path represents the transition from **AI as a tool** to **AI as a co
 
 ---
 
+#### Fig-005-AI-Sitting-at-Discussion-Tables.png
+
+![Fig-005-AI-Sitting-at-Discussion-Tables.png](./figures/Fig-005-AI-Sitting-at-Discussion-Tables.png)
+
+---
+
 # Beyond Prompt Engineering
 
 The first generation of LLM applications focused primarily on prompt-response interaction.

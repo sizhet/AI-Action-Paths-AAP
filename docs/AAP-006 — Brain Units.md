@@ -20,6 +20,12 @@ They represent one of the first Action Paths in which AI is expected not merely 
 
 ---
 
+#### Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png
+
+![Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png](./figures/Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png)
+
+---
+
 # Beyond Temporary Sessions
 
 Most current AI interactions remain session-oriented.

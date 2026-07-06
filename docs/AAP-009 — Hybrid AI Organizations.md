@@ -30,6 +30,12 @@ Organization therefore becomes another major expansion of AI Action Space.
 
 ---
 
+#### Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png
+
+![Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png](./figures/Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png)
+
+---
+
 # Beyond Individual Intelligence
 
 Most current AI systems are evaluated individually.

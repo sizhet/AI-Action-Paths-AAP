@@ -16,6 +16,12 @@ This repository proposes that the next stage of AI evolution should be understoo
 
 ---
 
+#### Fig-001-Overview-of-AI-Actions-Paths.png
+
+![Fig-001-Overview-of-AI-Actions-Paths.png](./figures/Fig-001-Overview-of-AI-Actions-Paths.png)
+
+---
+
 # From Capability to Action
 
 Current AI evaluation is largely capability-oriented.

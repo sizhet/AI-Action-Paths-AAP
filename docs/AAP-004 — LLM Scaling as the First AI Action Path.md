@@ -20,6 +20,12 @@ Its greatest achievement is enabling AI to participate in human activities at an
 
 ---
 
+#### Fig-004-LLM-Scaling-as-the-First-Action-Path.png
+
+![Fig-004-LLM-Scaling-as-the-First-Action-Path.png](./figures/Fig-004-LLM-Scaling-as-the-First-Action-Path.png)
+
+---
+
 # From Intelligence to Participation
 
 Before LLMs, AI systems were generally designed for individual tasks.

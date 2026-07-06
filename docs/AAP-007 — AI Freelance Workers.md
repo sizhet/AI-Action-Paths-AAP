@@ -30,6 +30,12 @@ This Action Path represents one of the earliest forms of economically scalable a
 
 ---
 
+#### Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png
+
+![Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png](./figures/Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png)
+
+---
+
 # From Assistants to Workers
 
 Many current AI systems still operate primarily as assistants.

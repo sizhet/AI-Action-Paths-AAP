@@ -20,6 +20,14 @@ This chapter explains the seven Action Paths shown in Fig-001 and their relation
 
 # From Capability Space to Action Space
 
+---
+
+#### Fig-002-Outcome-Perspective-vs-Action-Perspective.png
+
+![Fig-002-Outcome-Perspective-vs-Action-Perspective.png](./figures/Fig-002-Outcome-Perspective-vs-Action-Perspective.png)
+
+---
+
 Most discussions of artificial intelligence begin with models.
 
 Examples include:
@@ -64,7 +72,16 @@ Action Space therefore complements Capability Space rather than replacing it.
 
 # The Seven Major AI Action Paths
 
-Figure 001 organizes today's and tomorrow's AI evolution into seven major Action Paths.
+
+---
+
+#### Fig-001b-Seven-Major-AI-Action-Paths.png
+
+![Fig-001b-Seven-Major-AI-Action-Paths.png](./figures/Fig-001b-Seven-Major-AI-Action-Paths.png)
+
+---
+
+Figure 001b organizes today's and tomorrow's AI evolution into seven major Action Paths.
 
 Together they describe how intelligence gradually becomes productive, collaborative, trustworthy, and socially integrated.
 
