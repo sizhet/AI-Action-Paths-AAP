@@ -6,6 +6,12 @@
 
 ---
 
+#### Fig-001-Overview-of-AI-Actions-Paths.png
+
+![Fig-001-Overview-of-AI-Actions-Paths.png](./docs/figures/Fig-001-Overview-of-AI-Actions-Paths.png)
+
+---
+
 ## Why This Repository?
 
 Artificial Intelligence has entered a new stage.
@@ -66,7 +72,15 @@ Action Paths therefore connect intelligence with long-term participation.
 
 # The Seven AI Action Paths
 
-Figure 001 summarizes the central framework of this repository.
+---
+
+#### Fig-001b-Seven-Major-AI-Action-Paths.png
+
+![Fig-001b-Seven-Major-AI-Action-Paths.png](./docs/figures/Fig-001b-Seven-Major-AI-Action-Paths.png)
+
+---
+
+Figure 001b summarizes the central framework of this repository.
 
 ```
 Foundation Core
@@ -93,6 +107,14 @@ They represent complementary directions through which AI gradually expands its p
 ---
 
 # Three-Dimensional AI Evolution
+
+---
+
+#### Fig-003-Height-Breadth-and-Depth-of-AI-Models.png
+
+![Fig-003-Height-Breadth-and-Depth-of-AI-Models.png](./docs/figures/Fig-003-Height-Breadth-and-Depth-of-AI-Models.png)
+
+---
 
 AAP proposes that future AI development should not optimize only one dimension.
 
@@ -209,6 +231,12 @@ These structures enable AI actions to become:
 * Unknown Gap Workers
 * Hybrid AI Organizations
 * Toward Human–AI Civilization
+
+---
+
+#### Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png
+
+![Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png](./docs/figures/Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png)
 
 ---
 
