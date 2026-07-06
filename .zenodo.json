@@ -1,0 +1,37 @@
+{
+  "title": "Runtime Invariant Architecture (RIA): From Computational Assets to Runtime Packaging, Composition, and Operations",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    },
+    {
+      "name": "GPT-Obot",
+      "affiliation": "OpenAI ChatGPT"
+    }
+  ],
+  "description": "This repository introduces Runtime Invariant Architecture (RIA), an architectural framework for organizing existing computational assets into reusable runtime entities. RIA emphasizes runtime packaging rather than algorithm design, capability aggregation rather than reinvention, runtime identity across multiple perspectives, and runtime operations as an architectural operator system. Its primary purpose is to remove the cognitive barrier that makes Runtime Invariants appear unnecessarily difficult, showing that RI is a natural evolution of Metric Space based computational systems, software architecture, and AI infrastructure.",
+  "keywords": [
+    "Runtime Invariant",
+    "Runtime Invariant Architecture",
+    "Runtime Packaging",
+    "Computational Assets",
+    "Runtime Identity",
+    "Runtime Operations",
+    "Runtime Algebra",
+    "Capability Aggregation",
+    "Metric Space",
+    "Starmap",
+    "Software Architecture",
+    "AI Infrastructure",
+    "AI Engineering",
+    "AI Coding",
+    "Structural Intelligence",
+    "Minimal Evolution Threshold"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "language": "eng",
+  "version": "1.0.0"
+}
