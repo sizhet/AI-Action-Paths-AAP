@@ -139,4 +139,7 @@
 44. Runtime Invariant Architecture (RIA) - \
     From Computational Assets to Runtime Packaging, Composition, and Operations \
     Repository: https://github.com/sizhet/Runtime-Invariant-Architecture-RIA
-    
+
+45. AI Action Paths (AAP) - \
+    From Capability Space to Human–AI Civilization \
+    Repository: https://github.com/sizhet/AI-Action-Paths-AAP    
