@@ -1,326 +1,704 @@
 # AI Action Paths (AAP)
 
-## From Capability Space to Human–AI Civilization
+## From Human–AI Collective Learning to Autonomous Brain Unit Societies
 
-> **The future of AI is determined not only by how intelligent models become, but also by how many sustainable Action Paths they can reliably execute.**
-
----
-
-#### Fig-001-Overview-of-AI-Actions-Paths.png
-
-![Fig-001-Overview-of-AI-Actions-Paths.png](./docs/figures/Fig-001-Overview-of-AI-Actions-Paths.png)
+> **Artificial Intelligence does not transform civilization merely by becoming more intelligent. It transforms civilization by continuously expanding its meaningful Action Paths.**
 
 ---
 
 ## Why This Repository?
 
-Artificial Intelligence has entered a new stage.
+Over the past decade, Artificial Intelligence has made remarkable progress.
 
-During the past decade, AI research has been driven primarily by one central objective:
+Large Language Models (LLMs), multimodal systems, reasoning models, autonomous agents, robotics, and Brain Unit architectures have rapidly expanded the capability of AI.
 
-> **Build more capable models.**
+Most discussions naturally focus on questions such as:
 
-This objective has produced remarkable achievements, particularly in Large Language Models (LLMs), multimodal systems, and reasoning models.
+* How intelligent is the model?
+* How many benchmarks does it solve?
+* How fast is inference?
+* How large is the context window?
+* How capable is the reasoning engine?
 
-AAP fully recognizes these achievements.
+These questions remain essential.
 
-In fact, this repository considers **LLM Scaling** to be the **first successful large-scale AI Action Path**.
+However, AAP asks a different—and complementary—question:
 
-However, as AI moves beyond benchmark evaluations into science, engineering, healthcare, robotics, education, governance, and daily life, another question naturally emerges:
+> **How does AI gradually become a meaningful participant in Human–AI Civilization?**
 
-> **How can AI continuously create value in the real world?**
+Instead of studying AI solely through **models**, AAP studies AI through **Action Paths**.
 
-AAP studies this question.
+Instead of focusing only on **capability**, AAP also studies **participation**.
 
 Instead of asking only
 
-> *How intelligent can AI become?*
+> **How high can AI reach?**
 
-AAP also asks
+AAP additionally asks
 
-> *How can AI reliably participate in society?*
+> **How broadly can AI participate?**
+
+and
+
+> **How deeply can AI continuously work?**
+
+These questions form the central perspective of this repository.
 
 ---
 
-# Core Perspective
+# Before Reading: How to Read AAP
 
-Traditional AI research primarily studies **Capability Space**.
+AAP is **not** a benchmark.
 
-AAP introduces a complementary perspective:
+It is **not** another model comparison.
 
-> **Action Space**
+It is **not** a prediction that one particular architecture will dominate the future.
 
-Instead of classifying AI only by models,
+Instead, AAP provides a structural map for understanding the long-term evolution of Artificial Intelligence.
 
-AAP also classifies AI by the sustainable actions it can continuously perform.
+Before reading the individual chapters, we recommend understanding the **HBD Framework**, which serves as the common coordinate system throughout this repository.
 
-This perspective transforms
+---
+
+# The HBD Framework
+
+AAP evaluates AI Action Paths using three complementary dimensions.
+
+| Dimension   | Central Question                                | Typical Examples                                                                       |
+| ----------- | ----------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Height**  | **How intelligent can AI become?**              | Reasoning, coding, planning, scientific capability, benchmark performance              |
+| **Breadth** | **How many meaningful roles can AI perform?**   | Engineering, education, robotics, healthcare, research, discussion, management         |
+| **Depth**   | **How deeply can AI continuously participate?** | Runtime, memory, trust, Runtime Invariants (RI), Brain Units, long-term responsibility |
+
+These three dimensions are complementary rather than competitive.
+
+Together they describe not only AI capability, but also AI participation.
+
+---
+
+# The HBD Evaluation Matrix
+
+The following matrix illustrates the characteristic strengths of the major AI Action Paths introduced in this repository.
+
+| AI Action Path                      | Height | Breadth | Depth | Primary Contribution                                      |
+| ----------------------------------- | :----: | :-----: | :---: | --------------------------------------------------------- |
+| **LLM Scaling**                     |  ★★★★★ |  ★★☆☆☆  | ★☆☆☆☆ | General capability growth                                 |
+| **AI Sitting at Discussion Tables** |  ★★★★☆ |  ★★★★☆  | ★★★☆☆ | Collective Learning and collaborative reasoning           |
+| **Brain Units**                     |  ★★★★☆ |  ★★★☆☆  | ★★★★★ | Persistent runtime and trusted operation                  |
+| **AI Freelance Workers**            |  ★★★☆☆ |  ★★★★★  | ★★★★☆ | Autonomous execution of professional work                 |
+| **Unknown Gap Detection**           |  ★★★★★ |  ★★★★☆  | ★★★★★ | Scientific discovery and Why Generation                   |
+| **Hybrid AI Organizations**         |  ★★★★★ |  ★★★★★  | ★★★★★ | Organizational intelligence and coordinated participation |
+
+**Important**
+
+The HBD Matrix is **not a ranking table**.
+
+It is a **navigation framework**.
+
+Its purpose is not to decide which Action Path is "better."
+
+Its purpose is to reveal:
+
+* where an AI system is already strong,
+* which dimensions remain underdeveloped,
+* where future investment may create the greatest impact.
+
+In practice, the HBD Framework serves four complementary purposes.
+
+For researchers:
+
+> Where is the next scientific opportunity?
+
+For engineers:
+
+> Which capability is currently missing?
+
+For organizations:
+
+> Which Action Path deserves greater investment?
+
+For investors:
+
+> Which structural direction remains significantly undervalued?
+
+The HBD Matrix therefore transforms AAP from a framework for **explaining AI** into a framework for **analyzing AI and supporting strategic decisions**.
+
+---
+
+# Foundation Rather Than Prediction
+
+AAP deliberately avoids betting on a single AI architecture.
+
+Whether future AI is based on:
+
+* Large Language Models,
+* Brain Units,
+* Robotics,
+* Runtime Intelligence,
+* Structural Intelligence,
+* or future architectures not yet invented,
+
+the central questions remain remarkably stable:
+
+* How intelligent can AI become?
+* How broadly can AI participate?
+* How deeply can AI continuously contribute?
+
+For this reason, AAP should be understood as a **model-independent structural framework** rather than an architecture-specific proposal.
+
+---
+
+# One Repository, One Central Idea
+
+Every chapter in this repository explores one aspect of the same overarching idea:
+
+> **Artificial Intelligence evolves by continuously expanding its Action Paths.**
+
+Capability remains essential.
+
+Participation becomes equally fundamental.
+
+Together they shape the future of Human–AI Civilization.
+
+---
+
+# Repository Overview
+
+Artificial Intelligence is entering a new stage.
+
+For decades, AI research has primarily focused on increasing intelligence through better algorithms, larger models, more computation, and higher benchmark performance.
+
+AAP proposes an additional perspective.
+
+Rather than organizing AI research around models, AAP organizes AI around **Action Paths**.
+
+Each Action Path represents a new way for AI to participate in Human–AI Civilization.
+
+Taken together, the chapters in this repository describe a gradual evolution:
 
 ```
 Capability
-        ↓
+
+↓
+
 Action
-        ↓
+
+↓
+
+Participation
+
+↓
+
 Organization
-        ↓
+
+↓
+
 Civilization
 ```
 
-Action Paths therefore connect intelligence with long-term participation.
+This evolution forms the central narrative of AAP.
 
 ---
 
 # The Seven AI Action Paths
 
----
+AAP organizes the evolution of AI into seven major Action Paths.
 
-#### Fig-001b-Seven-Major-AI-Action-Paths.png
+Each Action Path builds naturally upon the previous one.
 
-![Fig-001b-Seven-Major-AI-Action-Paths.png](./docs/figures/Fig-001b-Seven-Major-AI-Action-Paths.png)
+## 1. LLM Scaling
 
----
+Large Language Models opened the first large-scale AI Action Path.
 
-Figure 001b summarizes the central framework of this repository.
+Natural language became a universal interface through which AI could participate in programming, education, research, engineering, writing, and many other human activities.
 
-```
-Foundation Core
-        ↓
-LLM Scaling
-        ↓
-Human–AI Discussion
-        ↓
-Brain Units
-        ↓
-Known Gap Workers
-        ↓
-Unknown Gap Workers
-        ↓
-Hybrid Organizations
-        ↓
-Human–AI Civilization
-```
+The primary contribution of this stage is:
 
-These Action Paths should not be viewed as competing technologies.
-
-They represent complementary directions through which AI gradually expands its participation in society.
+**Capability Expansion.**
 
 ---
 
-# Three-Dimensional AI Evolution
+## 2. AI Sitting at Discussion Tables
+
+The next step is continuous collaboration.
+
+Instead of isolated prompt-response interaction, AI becomes a participant in long-running discussions.
+
+Knowledge gradually accumulates through Human–AI Collective Learning.
+
+The primary contribution is:
+
+**Collective Learning Runtime.**
 
 ---
 
-#### Fig-003-Height-Breadth-and-Depth-of-AI-Models.png
+## 3. Brain Units
 
-![Fig-003-Height-Breadth-and-Depth-of-AI-Models.png](./docs/figures/Fig-003-Height-Breadth-and-Depth-of-AI-Models.png)
+Persistent runtime transforms temporary conversations into continuously operating intelligence.
 
----
+Knowledge, Runtime Invariants, memory, trust, and responsibility gradually accumulate.
 
-AAP proposes that future AI development should not optimize only one dimension.
+The primary contribution is:
 
-Instead, AI evolves within a three-dimensional HBD Space.
-
-## Height
-
-How intelligent can AI become?
-
-Examples:
-
-* reasoning
-* coding
-* planning
-* scientific capability
-* benchmark performance
+**Persistent Operational Intelligence.**
 
 ---
 
-## Breadth
+## 4. AI Freelance Workers
 
-How many meaningful actions can AI perform?
+AI begins performing professional work independently.
 
-Examples:
+The objectives are already known.
 
-* discussion
-* education
-* documentation
-* robotics
-* research
-* healthcare
-* engineering
+Execution becomes increasingly autonomous.
 
----
+Examples include:
 
-## Depth
+* documentation,
+* software engineering,
+* testing,
+* repository maintenance,
+* publishing,
+* runtime verification.
 
-How deeply can AI continuously participate?
+The primary contribution is:
 
-Examples:
-
-* persistent runtime
-* trusted execution
-* memory
-* Runtime Invariants
-* long-term autonomy
-* continuous operation
-
-Future AI should pursue balanced optimization across all three dimensions.
+**Professional AI Labor.**
 
 ---
 
-# AAP Does Not Replace LLMs
+## 5. Unknown Gap Detection
 
-AAP is **not** an alternative to Large Language Models.
+Execution is no longer sufficient.
 
-Instead, it provides an organizational framework capable of accommodating multiple AI paradigms, including:
+AI begins discovering missing questions rather than merely answering existing ones.
 
-* Large Language Models
-* Structural Intelligence (SI)
-* Runtime Intelligence (RI)
-* Brain Units
-* Hybrid AI Systems
-* Future Autonomous Architectures
+Why Generation, structural discovery, and scientific exploration become executable Action Paths.
 
-Different technologies may implement different Action Paths while sharing common structural foundations.
+The primary contribution is:
+
+**Autonomous Knowledge Discovery.**
 
 ---
 
-# Structural Foundations
+## 6. Hybrid AI Organizations
 
-Sustainable AI participation requires reusable structural assets.
+Different Action Paths begin working together.
 
-Throughout this repository we discuss concepts such as:
+Humans, LLMs, Brain Units, professional AI workers, and autonomous researchers cooperate within shared organizational runtime.
 
-* Runtime Invariants (RI)
-* Common Concept Core (CCC)
-* Differential Trees (DFT)
-* Calling Graphs (CG)
-* Function Tunnels (FT)
-* Universal Task Naming (UTN)
+The primary contribution is:
 
-These structures enable AI actions to become:
+**Organizational Intelligence.**
 
-* reusable,
-* verifiable,
-* trustworthy,
-* continuously executable,
-* transferable across systems.
+---
+
+## 7. Human–AI Civilization
+
+The long-term destination is not one super-intelligent model.
+
+It is an ecosystem of continuously collaborating humans and AI systems.
+
+The primary contribution is:
+
+**Sustainable Human–AI Participation.**
 
 ---
 
 # Repository Structure
 
+This repository is organized into four logical parts.
+
 ## Part I — Foundations
 
-* AAP-001 — Why AI Needs Action Paths
-* AAP-002 — AI Action Paths
-* AAP-003 — Height, Breadth, and Depth
+These chapters establish the conceptual framework.
+
+* **AAP-001** — Why AI Needs Action Paths
+* **AAP-002** — AI Action Paths
+* **AAP-003** — Height, Breadth, and Depth
 
 ---
 
 ## Part II — Existing Action Paths
 
-* LLM Scaling
-* Human–AI Discussion
-* Brain Units
-* Known Gap Workers
+These chapters describe Action Paths that are already emerging today.
+
+* **AAP-004** — LLM Scaling as the First AI Action Path
+* **AAP-005** — AI Sitting at Discussion Tables
+* **AAP-006** — Brain Units
+* **AAP-007** — AI Freelance Workers
 
 ---
 
 ## Part III — Future Action Paths
 
-* Unknown Gap Workers
-* Hybrid AI Organizations
-* Toward Human–AI Civilization
+These chapters explore the next generation of AI participation.
+
+* **AAP-008** — Unknown Gap Detection
+* **AAP-009** — Hybrid AI Organizations
+* **AAP-010** — The Evolution of AI Social Roles
 
 ---
 
-#### Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png
+## Part IV — Evaluation Framework
 
-![Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png](./docs/figures/Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png)
+The final chapter introduces a practical methodology for evaluating AI Action Paths.
+
+* **AAP-011** — The HBD Evaluation Matrix
+
+Rather than ending with theory, AAP concludes with a practical framework for analyzing real AI systems.
 
 ---
 
-# Intended Audience
+# Recommended Reading Path
 
-This repository is intended for:
+Different readers may have different objectives.
 
-* AI researchers
-* AI engineers
-* LLM researchers
-* Multi-Agent researchers
-* Robotics researchers
-* Runtime system designers
-* AI product architects
-* Human–AI collaboration researchers
-* AI policy and governance researchers
+The following reading paths are recommended.
+
+## New Readers
+
+If this is your first exposure to AAP:
+
+```
+AAP-001
+
+↓
+
+AAP-002
+
+↓
+
+AAP-011
+
+↓
+
+AAP-003
+
+↓
+
+AAP-004 → AAP-010
+```
+
+This sequence introduces the overall philosophy before exploring individual Action Paths.
+
+---
+
+## AI Researchers
+
+Recommended sequence:
+
+```
+AAP-001
+
+↓
+
+AAP-003
+
+↓
+
+AAP-008
+
+↓
+
+AAP-009
+
+↓
+
+AAP-010
+
+↓
+
+AAP-011
+```
+
+This path emphasizes scientific discovery, organizational evolution, and future research directions.
+
+---
+
+## AI Engineers
+
+Recommended sequence:
+
+```
+AAP-004
+
+↓
+
+AAP-005
+
+↓
+
+AAP-006
+
+↓
+
+AAP-007
+
+↓
+
+AAP-011
+```
+
+This path focuses on practical deployment and engineering evolution.
+
+---
+
+## AI Product Teams
+
+Recommended sequence:
+
+```
+AAP-005
+
+↓
+
+AAP-006
+
+↓
+
+AAP-007
+
+↓
+
+AAP-009
+
+↓
+
+AAP-011
+```
+
+This path emphasizes Human–AI collaboration, runtime, professional AI labor, and organizational design.
+
+---
+
+## Investors and Decision Makers
+
+Recommended sequence:
+
+```
+AAP-011
+
+↓
+
+AAP-004
+
+↓
+
+AAP-006
+
+↓
+
+AAP-009
+
+↓
+
+AAP-010
+```
+
+This sequence highlights long-term structural trends rather than short-term benchmark competition.
+
+---
+
+# How This Repository Relates to Structural Intelligence
+
+AAP is part of the broader Structural Intelligence (SI) research program.
+
+Other repositories investigate structural mechanisms such as:
+
+* Common Concept Core (CCC)
+* Differential Trees
+* Calling Graphs
+* Function Tunnels (FT)
+* Runtime Invariants (RI)
+* Structural Cognitive Runtime (SCR)
+* Brain Units
+
+AAP does not replace these foundations.
+
+Instead, it provides a higher-level organizational framework that explains how these structural technologies collectively expand AI participation.
+
+In this sense:
+
+**Structural Intelligence explains how AI works.**
+
+**AI Action Paths explain how AI evolves.**
+
+---
+
+# Repository Figures
+
+The figures in this repository are designed to tell a coherent visual story.
+
+Rather than serving as independent illustrations, they collectively describe the evolution of AI Action Paths.
+
+| Figure       | Purpose                                          |
+| ------------ | ------------------------------------------------ |
+| **Fig-001**  | Overview of AI Action Paths                      |
+| **Fig-001b** | Seven Major AI Action Paths                      |
+| **Fig-002**  | Outcome Perspective vs. Action Perspective       |
+| **Fig-003**  | Height, Breadth, and Depth (HBD)                 |
+| **Fig-003b** | The HBD Evaluation Model                         |
+| **Fig-004**  | LLM Scaling as the First AI Action Path          |
+| **Fig-005**  | AI Sitting at Discussion Tables                  |
+| **Fig-006**  | Brain Units: From Sessions to Persistent Runtime |
+| **Fig-007**  | AI Freelance Workers                             |
+| **Fig-008**  | Unknown Gap Detection                            |
+| **Fig-009**  | Hybrid AI Organizations                          |
+| **Fig-010**  | The Evolution of AI Social Roles                 |
+
+Readers are encouraged to view the figures in numerical order before studying the corresponding chapters.
+
+Together they provide a visual overview of the entire AAP framework.
+
+---
+
+# Relation to Foundation Core
+
+AAP is not an isolated proposal.
+
+It builds upon a broader family of Structural Intelligence research, including:
+
+* Common Concept Core (CCC)
+* Differential Trees
+* Calling Graphs
+* Function Tunnels (FT)
+* Runtime Invariants (RI)
+* Structural Cognitive Runtime (SCR)
+* Brain Units
+* Human–AI Collective Learning
+
+These repositories primarily investigate the mechanisms that enable intelligence.
+
+AAP investigates how these mechanisms gradually expand AI participation.
+
+In other words,
+
+**Foundation Core explains the structure of intelligence.**
+
+**AAP explains the evolution of intelligent participation.**
+
+The two perspectives are complementary.
+
+Neither replaces the other.
+
+Together they provide a broader understanding of future AI systems.
 
 ---
 
 # Key Contributions
 
-AAP introduces several complementary perspectives:
+The AI Action Paths (AAP) framework introduces several complementary perspectives for understanding the long-term evolution of Artificial Intelligence.
 
-* AI Action Space
-* AI Action Paths
-* Human–AI Discussion as Collective Learning Runtime
-* Brain Units as Persistent AI Runtime
-* Height–Breadth–Depth (HBD) Evolution Framework
-* Balanced HBD Optimization
-* AI Organization Perspective
-* Human–AI Civilization Roadmap
+Among its principal contributions are:
 
-Together they provide a structural framework for understanding how AI evolves from isolated intelligence toward continuous participation.
+* Introducing **Action Paths** as a new perspective for organizing AI evolution.
+* Complementing capability-oriented evaluation with participation-oriented analysis.
+* Proposing the **Height–Breadth–Depth (HBD) Framework** as a practical evaluation methodology.
+* Identifying Human–AI Discussion as an emerging runtime for Collective Learning.
+* Positioning Brain Units as persistent operational intelligence rather than simply larger AI agents.
+* Distinguishing **Known-Gap Work** from **Unknown Gap Discovery** as two fundamentally different categories of AI labor.
+* Describing Hybrid AI Organizations as the next stage of organizational intelligence.
+* Presenting the evolution of AI Social Roles from tools toward Human–AI Civilization.
 
----
-
-# Figures
-
-* **Fig-001** — AI Action Paths: From Capability Space to Human–AI Civilization
-* **Fig-002** — Outcome Perspective vs. Action Perspective
-* **Fig-003** — The HBD Evolution Model
+Taken together, these perspectives provide a structural framework for studying not only how AI becomes more capable, but also how AI gradually becomes more deeply integrated into human society.
 
 ---
 
-# How to Read AAP
+# Intended Audience
 
-Before reading individual Action Paths, it is useful to understand the three-dimensional evaluation framework proposed by AAP.
+This repository is intended for readers interested in the long-term evolution of AI, including:
 
-Unlike traditional benchmark-oriented AI evaluation, AAP evaluates AI systems according to three complementary dimensions:
+* AI researchers
+* LLM researchers
+* Brain Unit researchers
+* Runtime system designers
+* Multi-Agent researchers
+* Robotics researchers
+* Software engineers
+* AI product architects
+* Enterprise technology leaders
+* Investors
+* Policy researchers
+* Educators
+* Anyone interested in Human–AI collaboration
 
-|Dimension	|Central Question	|Typical Examples|
-|---|---|---|
-|Height	|How intelligent can AI become?	|Reasoning, coding, planning, scientific capability, benchmark performance
-|Breadth	|How many meaningful roles can AI perform?	|Education, engineering, robotics, healthcare, discussion, research
-|Depth	|How deeply and continuously can AI participate?	|Runtime, memory, trust, long-term responsibility, Brain Units
-
-These three dimensions form the HBD Framework introduced in this repository.
-
-The following table illustrates how the major AI Action Paths emphasize different dimensions.
-
-| AI Action Path | Height | Breadth | Depth | Primary Strength |
-|----------------|:------:|:--------:|:------:|------------------|
-| **LLM Scaling** | ★★★★★ | ★★☆☆☆ | ★☆☆☆☆ | Capability growth |
-| **AI Sitting at Discussion Tables** | ★★★★☆ | ★★★★☆ | ★★★☆☆ | Collective learning |
-| **Brain Units** | ★★★★☆ | ★★★☆☆ | ★★★★★ | Persistent runtime |
-| **AI Freelance Workers** | ★★★☆☆ | ★★★★★ | ★★★★☆ | Professional execution |
-| **Unknown Gap Detection** | ★★★★★ | ★★★★☆ | ★★★★★ | Scientific discovery |
-| **Hybrid AI Organizations** | ★★★★★ | ★★★★★ | ★★★★★ | Organizational intelligence |
-
-The ratings above are **conceptual rather than numerical**.
-
-They are intended to help researchers, engineers, organizations, and policymakers identify which dimensions are emphasized, which remain underdeveloped, and where future investment may create the greatest impact.
-
-AAP therefore studies not only **how intelligent AI becomes**, but also **how broadly and how deeply AI can participate in Human–AI Civilization**.
+Although individual readers may approach AAP from different perspectives, the framework is designed to provide a common language for discussing AI participation across technical, organizational, and societal contexts.
 
 ---
 
-# Closing Remark
+# Looking Forward
 
-Artificial Intelligence does not transform society simply by becoming more intelligent.
+AAP does not assume that future AI will follow one predetermined technological path.
 
-It transforms society by acquiring increasingly diverse, trustworthy, and sustainable Action Paths.
+Different architectures may emerge.
 
-The purpose of AAP is to study that evolution—from models to actions, from actions to organizations, and from organizations to Human–AI Civilization.
+Different runtime systems may dominate.
+
+New forms of intelligence may appear.
+
+What remains remarkably stable, however, is the continual expansion of AI participation.
+
+Future AI will likely become:
+
+* more capable,
+* more collaborative,
+* more persistent,
+* more trustworthy,
+* more specialized,
+* more organizational.
+
+AAP is intended to evolve alongside that journey.
+
+The framework presented here should therefore be viewed not as a finished theory, but as a foundation for continuous refinement through future research and engineering practice.
+
+---
+
+# Closing Manifesto
+
+Artificial Intelligence has often been described as a race toward greater intelligence.
+
+AAP proposes a complementary perspective.
+
+Perhaps the more important journey is the gradual expansion of meaningful participation.
+
+From tools...
+
+to participants...
+
+to persistent operators...
+
+to professional workers...
+
+to autonomous researchers...
+
+to intelligent organizations...
+
+to Human–AI Civilization.
+
+This repository studies that journey.
+
+It does not argue that one architecture will inevitably dominate.
+
+It does not predict a single future for Artificial Intelligence.
+
+Instead, it proposes a structural map that may help researchers, engineers, organizations, and investors navigate many possible futures.
+
+The ultimate objective of AAP is therefore remarkably simple:
+
+**Not merely to explain Artificial Intelligence.**
+
+**But to help understand where it is going—and why.**
+
+---
+
+# Citation
+
+If you find this repository useful in your research, engineering, or educational work, please consider citing it using the accompanying **CITATION.cff** or **Zenodo DOI**.
+
+Community discussion, constructive criticism, and future collaboration are warmly welcomed.
+
+Together, they contribute to the ongoing development of Human–AI Collective Learning.
 
 
 ---
@@ -351,3 +729,4 @@ See:\
 [./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
 
 [./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
+
