@@ -6,6 +6,12 @@
 
 ---
 
+#### Fig-001-Overview-of-AI-Actions-Paths.png
+
+![Fig-001-Overview-of-AI-Actions-Paths.png](./docs/figures/Fig-001-Overview-of-AI-Actions-Paths.png)
+
+---
+
 ## Why This Repository?
 
 Over the past decade, Artificial Intelligence has made remarkable progress.
@@ -73,6 +79,12 @@ AAP evaluates AI Action Paths using three complementary dimensions.
 These three dimensions are complementary rather than competitive.
 
 Together they describe not only AI capability, but also AI participation.
+
+---
+
+#### Fig-003-Height-Breadth-and-Depth-of-AI-Models.png
+
+![Fig-003-Height-Breadth-and-Depth-of-AI-Models.png](./docs/figures/Fig-003-Height-Breadth-and-Depth-of-AI-Models.png)
 
 ---
 
@@ -202,6 +214,14 @@ This evolution forms the central narrative of AAP.
 
 # The Seven AI Action Paths
 
+---
+
+#### Fig-001b-Seven-Major-AI-Action-Paths.png
+
+![Fig-001b-Seven-Major-AI-Action-Paths.png](./docs/figures/Fig-001b-Seven-Major-AI-Action-Paths.png)
+
+---
+
 AAP organizes the evolution of AI into seven major Action Paths.
 
 Each Action Path builds naturally upon the previous one.
@@ -302,6 +322,12 @@ It is an ecosystem of continuously collaborating humans and AI systems.
 The primary contribution is:
 
 **Sustainable Human–AI Participation.**
+
+---
+
+#### Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png
+
+![Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png](./docs/figures/Fig-010-Evolution-of-AI-Social-Roles:-From-Tools-to-Human-AI-Civilization.png)
 
 ---
 
