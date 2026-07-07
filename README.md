@@ -52,6 +52,15 @@ These questions form the central perspective of this repository.
 
 ---
 
+> **AAP is built upon two complementary analytical frameworks:**
+
+> **HBD Matrix** explains **where AI capability should evolve**, 
+> while **AI Tech/Market Four-Curve Analysis** explains **how AI maturity evolves over time.**
+
+> **AI Action Paths connect these two perspectives by transforming capability expansion into practical confidence and mission-critical reliability.**
+
+---
+
 # Before Reading: How to Read AAP
 
 AAP is **not** a benchmark.
