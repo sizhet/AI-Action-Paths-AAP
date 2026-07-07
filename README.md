@@ -621,6 +621,15 @@ This sequence highlights long-term structural trends rather than short-term benc
 
 ---
 
+## Methodology
+
+1. AAP-011 — HBD Matrix
+2. AAP-012 — AI Tech/Market Four-Curve Analysis
+
+These two papers introduce the analytical language used throughout the repository.
+
+---
+
 # How This Repository Relates to Structural Intelligence
 
 AAP is part of the broader Structural Intelligence (SI) research program.
