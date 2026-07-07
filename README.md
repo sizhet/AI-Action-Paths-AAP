@@ -376,6 +376,56 @@ The primary contribution is:
 
 ---
 
+# Two Complementary Analytical Frameworks
+
+Beginning with Version 1.2, the AI Action Paths (AAP) framework is supported by two complementary analytical frameworks.
+
+## 1. HBD Matrix (Height–Breadth–Depth)
+
+The HBD Matrix answers:
+
+> **Where should AI capability expand?**
+
+It analyzes AI evolution from three structural dimensions:
+
+- **Height** – capability frontier and innovation
+- **Breadth** – domain coverage and applicability
+- **Depth** – confidence, engineering maturity, and deployment readiness
+
+The HBD Matrix helps identify the most promising directions for future AI development.
+
+---
+
+## 2. AI Tech/Market Four-Curve Analysis
+
+The Four-Curve Analysis answers:
+
+> **How mature is AI today?**
+
+Instead of describing AI using a single capability curve, the framework models AI evolution through four coordinated time-series:
+
+1. Vision Frontier Curve (VFC)
+2. Reality Adoption Curve (RAC)
+3. Practical Confidence Curve (PCC)
+4. Mission Confidence Curve (MCC)
+
+Together these curves reveal three fundamental gaps:
+
+- Vision Gap
+- Confidence Gap
+- Engineering Gap
+
+Rather than focusing only on future capability, AAP concentrates on reducing the Confidence Gap and the Engineering Gap by advancing practical engineering, reliability, and mission-level confidence.
+
+Together, the HBD Matrix and the Four-Curve Analysis provide both:
+
+- **Capability Direction** (Where AI should grow)
+- **Capability Maturity** (How ready AI actually is)
+
+These two frameworks form the analytical foundation of AAP.
+
+---
+
 # Repository Structure
 
 This repository is organized into four logical parts.
