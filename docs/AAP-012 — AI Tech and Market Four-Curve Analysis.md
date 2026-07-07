@@ -1,264 +1,51 @@
-# AAP-012 — AI Tech/Market Four-Curve Analysis
-## A Time-Series Framework for Understanding AI Maturity
+# AI Action Paths (AAP) v1.0.0
 
-## Abstract
+## From Human–AI Collective Learning to Autonomous Brain Unit Societies
 
-The AI industry is often discussed through a single dimension: **capability**. Headlines focus on what AI may achieve next, while businesses focus on revenue, engineers focus on reliability, and users care about whether AI is trustworthy enough for daily work.
+We are pleased to announce the first public release of **AI Action Paths (AAP)**.
 
-These viewpoints are fundamentally different.
+AAP proposes a structural framework for understanding the long-term evolution of Artificial Intelligence through **Action Paths** rather than model architectures alone.
 
-This paper proposes the **AI Tech/Market Four-Curve Analysis**, a simple time-series framework that describes AI evolution through four distinct but interconnected curves rather than one.
+Instead of asking only:
 
-The framework provides a common language for researchers, AI companies, investors, engineers, policy makers, and users to discuss technological progress, commercialization, confidence, and deployment.
+> *How intelligent can AI become?*
 
-Unlike capability-only discussions, the Four-Curve Analysis emphasizes **confidence evolution and engineering maturity**, which we argue will become the dominant drivers of AI over the coming decade.
+AAP also asks:
 
-## 1. Why Another Framework?
+> *How can AI continuously participate in Human–AI Civilization?*
 
-Most discussions about AI implicitly assume a single curve:
+To address this question, the repository introduces seven major AI Action Paths:
 
-> AI becomes increasingly capable over time.
+* LLM Scaling
+* AI Sitting at Discussion Tables
+* Brain Units
+* AI Freelance Workers
+* Unknown Gap Detection
+* Hybrid AI Organizations
+* Human–AI Civilization
 
-Although simple, this view hides several independent processes.
+AAP also introduces the **Height–Breadth–Depth (HBD) Evaluation Framework**, providing a complementary methodology for analyzing AI systems beyond traditional benchmark-oriented evaluation.
 
-For example,
+Rather than ranking AI models, HBD helps researchers, engineers, organizations, and investors understand:
 
-- AI may demonstrate impressive benchmark performance while generating little commercial value.
-- Millions of people may use AI daily while avoiding mission-critical applications.
-- AI may be extremely capable in demonstrations but insufficiently reliable for real-world deployment.
+* How high AI can reach,
+* How broadly AI can participate,
+* How deeply AI can continuously contribute.
 
-These are not contradictions.
+The repository contains:
 
-They simply belong to different maturity curves.
+* 11 technical and conceptual articles
+* A complete visual framework with 10 figures
+* A repository-wide reading guide
+* A practical evaluation methodology (AAP-011)
+* Connections to Structural Intelligence, Runtime Intelligence, Brain Units, and Human–AI Collective Learning
 
-Understanding AI therefore requires multiple coordinated time-series rather than a single capability line.
+AAP does **not** argue for a single future AI architecture.
 
-## 2. The Four Curves
+Instead, it proposes a model-independent structural framework for navigating many possible futures of Artificial Intelligence.
 
-The Four-Curve Analysis models AI evolution using four continuously evolving time-series.
+We hope this repository contributes to future discussions on AI research, engineering, organizational design, and Human–AI collaboration.
 
-### Curve 1 — Vision Frontier Curve (VFC)
+Community feedback, discussion, constructive criticism, and future collaboration are warmly welcomed.
 
-#### Question
-
-> What do we believe AI may eventually achieve?
-
-This curve represents the frontier of imagination, research, and long-term technological possibility.
-
-Typical examples include:
-
-- AGI
-- Artificial Superintelligence
-- Autonomous Scientists
-- General Robotics
-- World Models
-- Space Exploration
-
-The Vision Frontier grows through scientific discovery rather than market adoption.
-
-It represents structural possibility, not present-day reality.
-
-### Curve 2 — Reality Adoption Curve (RAC)
-
-#### Question
-
-> What are users actually adopting today?
-
-This curve measures real deployment.
-
-Examples include:
-
-- ChatGPT
-- Coding assistants
-- Enterprise copilots
-- AI search
-- Customer service
-- AI office automation
-
-Reality Adoption reflects:
-
-- user acceptance
-- commercial deployment
-- operational ROI
-- recurring revenue
-
-Unlike the Vision Frontier, this curve is constrained by economics rather than imagination.
-
-### Curve 3 — Practical Confidence Curve (PCC)
-
-#### Question
-
-> Which AI capabilities are reliable enough for large-scale everyday use?
-
-This is the first confidence curve.
-
-Typical applications include:
-
-- document summarization
-- translation
-- coding assistance
-- education
-- customer support
-- research assistance
-
-These tasks tolerate occasional mistakes because human supervision remains practical.
-
-Conceptually, this corresponds approximately to the **1σ confidence region**, where failure rates are acceptable for ordinary productivity applications.
-
-This curve is expected to become the largest near-term growth engine for the AI industry.
-
-### Curve 4 — Mission Confidence Curve (MCC)
-
-#### Question
-
-> Which AI capabilities are reliable enough to perform mission-critical work?
-
-Mission-critical applications require substantially higher confidence.
-
-Examples include:
-
-- aviation
-- autonomous driving
-- healthcare
-- financial infrastructure
-- government systems
-- large-scale software engineering
-- scientific discovery
-
-These applications demand:
-
-- structural verification
-- runtime assurance
-- explainability
-- recovery mechanisms
-- engineering rigor
-
-Conceptually, this corresponds to approximately the **2σ confidence region or beyond**, where failures become sufficiently rare for high-consequence environments.
-
-For many AI systems, this remains the largest engineering challenge.
-
-## 3. Three Fundamental Gaps
-
-The value of the framework comes from the distances between the curves.
-
-These gaps reveal where future effort should be concentrated.
-
-Gap 1 — Vision Gap
-
-Vision Frontier − Reality Adoption
-
-This gap measures how far technological imagination exceeds present commercial reality.
-
-Typical questions include:
-
-Why does AGI receive enormous attention while revenue grows much more slowly?
-Which research directions remain scientifically exciting but commercially immature?
-
-Large Vision Gaps are natural during technological revolutions.
-
-Gap 2 — Confidence Gap
-
-Reality Adoption − Mission Confidence
-
-This gap measures the difference between widespread usage and mission-critical trust.
-
-Many AI systems are already useful.
-
-Far fewer are trusted for critical responsibilities.
-
-Closing this gap requires confidence engineering rather than larger models alone.
-
-Gap 3 — Engineering Gap
-
-Practical Confidence − Mission Confidence
-
-This gap measures the additional engineering effort required to transform practical AI into dependable infrastructure.
-
-Typical improvements include:
-
-verification
-runtime monitoring
-recovery
-invariant checking
-testing
-structural confidence accumulation
-
-This gap is expected to become one of the most important research directions for future AI systems.
-
-4. The AAP Action Zone
-
-The AI Action Paths (AAP) framework is intentionally centered on the lower two confidence curves.
-
-Rather than asking
-
-"What may AI someday achieve?"
-
-AAP primarily asks
-
-"How can today's AI become more reliable, more deployable, and more trustworthy?"
-
-Accordingly, the principal mission of AAP is to:
-
-advance the Practical Confidence Curve,
-elevate the Mission Confidence Curve,
-reduce the Confidence Gap,
-reduce the Engineering Gap.
-
-This emphasis distinguishes confidence engineering from capability marketing.
-
-5. Relation to the Structural Intelligence (SI) Series
-
-Many repositories in the Structural Intelligence series naturally contribute to the confidence curves.
-
-Examples include:
-
-Repository	Primary Contribution
-CG for AI Coding	Structural correctness and coding confidence
-Structural Feasibility Confidence (SFC)	Confidence accumulation methodology
-Runtime Invariants (RI)	Certified runtime building blocks
-Structural Cognitive Runtime (SCR)	Runtime assurance architecture
-AI Action Paths (AAP)	Practical pathways for confidence evolution
-
-Together, these projects form an engineering roadmap for progressively moving AI from practical usefulness toward mission-critical reliability.
-
-6. Relation to the HBD Matrix
-
-The HBD Matrix and the Four-Curve Analysis are complementary frameworks.
-
-The HBD Matrix answers:
-
-Where should AI capability expand?
-
-by analyzing development directions through Height, Breadth, and Depth.
-
-The Four-Curve Analysis answers:
-
-How mature is each capability?
-
-by analyzing technological evolution through Vision, Adoption, Practical Confidence, and Mission Confidence.
-
-Together they describe both:
-
-the direction of capability growth, and
-the maturity of capability deployment.
-
-They therefore form a twin analytical framework for understanding the evolution of AI.
-
-7. Conclusion
-
-AI is not evolving along a single capability curve.
-
-Instead, it is co-evolving along four interdependent trajectories:
-
-Vision Frontier
-Reality Adoption
-Practical Confidence
-Mission Confidence
-
-The distances between these curves define the principal engineering, commercial, and research challenges of the coming decade.
-
-Rather than viewing AI progress solely through larger models or higher benchmark scores, the Four-Curve Analysis emphasizes confidence, deployment, and engineering maturity as the essential drivers of long-term impact.
-
-As AI systems increasingly participate in society's critical infrastructure, narrowing the Confidence Gap and the Engineering Gap may become more important than expanding the Vision Frontier alone.
-
-The AI Tech/Market Four-Curve Analysis is therefore intended not merely as a visualization, but as a practical analytical framework for understanding where AI stands today, where it is heading, and where future effort can create the greatest value.
+**From Explaining AI to Navigating AI.**
