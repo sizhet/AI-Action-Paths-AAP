@@ -238,6 +238,12 @@ The primary contribution of this stage is:
 
 ---
 
+#### Fig-004-LLM-Scaling-as-the-First-Action-Path.png
+
+![Fig-004-LLM-Scaling-as-the-First-Action-Path.png](./docs/figures/Fig-004-LLM-Scaling-as-the-First-Action-Path.png)
+
+---
+
 ## 2. AI Sitting at Discussion Tables
 
 The next step is continuous collaboration.
@@ -252,6 +258,12 @@ The primary contribution is:
 
 ---
 
+#### Fig-005-AI-Sitting-at-Discussion-Tables.png
+
+![Fig-005-AI-Sitting-at-Discussion-Tables.png](./docs/figures/Fig-005-AI-Sitting-at-Discussion-Tables.png)
+
+---
+
 ## 3. Brain Units
 
 Persistent runtime transforms temporary conversations into continuously operating intelligence.
@@ -261,6 +273,12 @@ Knowledge, Runtime Invariants, memory, trust, and responsibility gradually accum
 The primary contribution is:
 
 **Persistent Operational Intelligence.**
+
+---
+
+#### Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png
+
+![Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png](./docs/figures/Fig-006-Brain-Unit:-From-Sessions-to-Persistent-Runtime.png)
 
 ---
 
@@ -287,6 +305,12 @@ The primary contribution is:
 
 ---
 
+#### Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png
+
+![Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png](./docs/figures/Fig-007-AI-Freelance-Workers:-From-AI-Assistants-to-Autonomous-Professional-Workers.png)
+
+---
+
 ## 5. Unknown Gap Detection
 
 Execution is no longer sufficient.
@@ -301,6 +325,12 @@ The primary contribution is:
 
 ---
 
+#### Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png
+
+![Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png](./docs/figures/Fig-008-Unknown-Gap-Detection:-From-Better-Answers-to-Better-Questions.png)
+
+---
+
 ## 6. Hybrid AI Organizations
 
 Different Action Paths begin working together.
@@ -310,6 +340,12 @@ Humans, LLMs, Brain Units, professional AI workers, and autonomous researchers c
 The primary contribution is:
 
 **Organizational Intelligence.**
+
+---
+
+#### Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png
+
+![Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png](./docs/figures/Fig-009-Hybrid-AI-Organizations:-From-Individual-Intelligence-to-Organizational-Intelligence.png)
 
 ---
 
