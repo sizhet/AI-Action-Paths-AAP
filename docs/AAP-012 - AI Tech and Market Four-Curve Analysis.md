@@ -13,6 +13,14 @@ The framework provides a common language for researchers, AI companies, investor
 
 Unlike capability-only discussions, the Four-Curve Analysis emphasizes confidence evolution and engineering maturity, which we argue will become the dominant drivers of AI over the coming decade.
 
+---
+
+#### Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png
+
+![Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png](./figures/Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png)
+
+---
+
 ## 1. Why Another Framework?
 
 Most discussions about AI implicitly assume a single curve:
