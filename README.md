@@ -716,16 +716,6 @@ The ultimate objective of AAP is therefore remarkably simple:
 
 **But to help understand where it is going—and why.**
 
----
-
-# Citation
-
-If you find this repository useful in your research, engineering, or educational work, please consider citing it using the accompanying **CITATION.cff** or **Zenodo DOI**.
-
-Community discussion, constructive criticism, and future collaboration are warmly welcomed.
-
-Together, they contribute to the ongoing development of Human–AI Collective Learning.
-
 
 ---
 
