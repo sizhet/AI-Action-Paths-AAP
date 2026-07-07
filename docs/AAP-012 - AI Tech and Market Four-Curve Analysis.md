@@ -15,9 +15,9 @@ Unlike capability-only discussions, the Four-Curve Analysis emphasizes confidenc
 
 ---
 
-#### Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png
+#### Fig-012-AI-Tech-and-Marke-Four-Curve-Analysis.png
 
-![Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png](./figures/Fig-011-AI-Tech-and-Marke-Four-Curve-Analysis.png)
+![Fig-012-AI-Tech-and-Marke-Four-Curve-Analysis.png](figures/Fig-012-AI-Tech-and-Marke-Four-Curve-Analysis.png)
 
 ---
 

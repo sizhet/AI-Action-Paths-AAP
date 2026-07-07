@@ -120,6 +120,7 @@ These figures explore the next stage of AI evolution.
 | **Fig-008** | Unknown Gap Detection            | AAP-008         |
 | **Fig-009** | Hybrid AI Organizations          | AAP-009         |
 | **Fig-010** | The Evolution of AI Social Roles | AAP-010         |
+| **Fig-012** | AI Tech/Market Four-Curve Analysis | AAP-012 |
 
 Together they describe the transition from:
 
@@ -134,6 +135,46 @@ Organization
 
 Civilization
 ```
+
+---
+
+## Fig-012 — AI Tech/Market Four-Curve Analysis
+
+**Related document**
+
+AAP-012 — AI Tech/Market Four-Curve Analysis
+
+**Purpose**
+
+Introduce a time-series framework for understanding AI maturity.
+
+The figure models AI evolution using four coordinated curves:
+
+1. Vision Frontier Curve (VFC)
+2. Reality Adoption Curve (RAC)
+3. Practical Confidence Curve (PCC)
+4. Mission Confidence Curve (MCC)
+
+Unlike conventional capability-only diagrams, this figure separates technological possibility, commercial adoption, engineering confidence, and mission-critical reliability into distinct maturity trajectories.
+
+It also introduces three analytical gaps:
+
+- Vision Gap
+- Confidence Gap
+- Engineering Gap
+
+The figure is intended to help readers identify where an AI technology, product, company, or research project currently resides and which gap deserves the greatest engineering attention.
+
+---
+
+**Relation to AAP**
+
+This figure forms one of the two methodological foundations of the repository.
+
+- **AAP-011** explains **where AI capability should evolve**.
+- **AAP-012** explains **how AI maturity evolves over time**.
+
+Together they provide the analytical language for understanding every AI Action Path presented in AAP.
 
 ---
 
