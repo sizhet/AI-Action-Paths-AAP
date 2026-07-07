@@ -16,6 +16,35 @@ If this is your first visit, this guide will help you quickly understand the rep
 
 ---
 
+## Start with the Two Core Frameworks
+
+If you are new to AAP, we recommend beginning with these two methodological papers.
+
+### AAP-011 — HBD Matrix
+
+The HBD Matrix explains **where AI capability should evolve** by analyzing Height, Breadth, and Depth.
+
+It is primarily a capability-space framework.
+
+---
+
+### AAP-012 — AI Tech/Market Four-Curve Analysis
+
+The Four-Curve Analysis explains **how AI maturity evolves over time**.
+
+It introduces four time-series:
+
+- Vision Frontier
+- Reality Adoption
+- Practical Confidence
+- Mission Confidence
+
+These four curves allow researchers, engineers, companies, investors, and users to locate today's AI technologies, identify the dominant bottlenecks, and reason about future priorities.
+
+Together, AAP-011 and AAP-012 provide the conceptual foundation for understanding every subsequent Action Path discussed in this repository.
+
+---
+
 # Two Ways to Explore This Repository
 
 There are two equally effective ways to understand AAP.
