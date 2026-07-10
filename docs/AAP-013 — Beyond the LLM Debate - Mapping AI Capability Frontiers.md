@@ -14,8 +14,6 @@ The apparent contradiction arises because they are often discussing different re
 
 This article proposes an alternative perspective based on **AI Capability Frontiers**, providing a common reference frame that helps reconcile seemingly conflicting viewpoints and connects naturally with the AI Action Paths (AAP) framework.
 
----
-
 # The Source of the Debate
 
 Many well-known demonstrations of LLM failure are valid.
@@ -41,6 +39,10 @@ The answer is that they evaluate different capability frontiers.
 
 ---
 
+![Fig-014-Why-the-AI-Debate-Never-Ends.png](figures/Fig-014-Why-the-AI-Debate-Never-Ends.png)
+
+---
+
 # From "Who Is Right?" to "Where Does Each Method Work?"
 
 Instead of asking whether LLMs succeed or fail in general, it is often more productive to ask:
@@ -54,6 +56,12 @@ Different approaches naturally dominate different regions of the capability spac
 ---
 
 # Four Capability Frontiers
+
+---
+
+![Fig-013-AI-Capability-Frontiers.png](./figures/Fig-013-AI-Capability-Frontiers.png)
+
+---
 
 ## Frontier A — Pure LLM Capability
 
@@ -198,6 +206,12 @@ These questions encourage engineering progress instead of ideological disagreeme
 ---
 
 # Beyond the AGI Debate
+
+---
+
+![Fig-015-From-Debate-to-Engineering.png](./figures/Fig-015-From-Debate-to-Engineering.png)
+
+---
 
 For many years, discussions surrounding Artificial General Intelligence (AGI) have often become polarized.
 
